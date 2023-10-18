@@ -1,7 +1,7 @@
 # SGBA-A-Stealthy-Scapegoat-Backdoor-Attack-against-Deep-Neural-Networks
 This code is the attack scheme in the paper "SGBA: A Stealthy Scapegoat Backdoor Attack against Deep Neural Networks". We supply this version as a reference of our attack scheme. You can find the paper at <https://doi.org/10.1016/j.cose.2023.103523>.
 
-Among the files, we supply the model structures and data processes of MNIST/GTSRB/CIFAR10/ImageNet(ISLVRC2012). You can download the corresponding datasets by yourself and run our codes on them directly.
+Among the files, we supply the model structures and data processes of MNIST/GTSRB/CIFAR10/ImageNet(ILSVRC2012). You can download the corresponding datasets by yourself and run our codes on them directly.
 
 You can test the attack scheme as following steps:
 
